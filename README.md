@@ -24,4 +24,4 @@
 <img align="center" alt="Html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <br/></div>
 
-<div> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação <br/></div>
+## <div> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação <br/></div>
