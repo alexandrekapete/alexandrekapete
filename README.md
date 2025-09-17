@@ -2,7 +2,7 @@
 
 
 ### Olá! E sou o Alexandre Kapete 🖐️
-### Estou me formando em Análise de Desenvolvimento de Sistemas (4º periodo), no âmbito do Front-End pela Universidade Leonardo da Vinci (Uniasselvi), atuando como suporte de desktop T.I em manutenção preventiva e corretiva de Hardware e Software (configuração de sistemas, instalação de redes) pela empresa Provecto Mais
+### Estou me formando em Análise de Desenvolvimento de Sistemas (4º periodo), no âmbito do Front-End pela Universidade Leonardo da Vinci (Uniasselvi).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-kapete-ba12ba2ba/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4velWQE9CmbMM_suDes3fg)
